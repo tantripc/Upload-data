@@ -1,0 +1,10 @@
+E:\chuachay\synSef\synSef\bin\Release\synSef.exe.config
+E:\chuachay\synSef\synSef\obj\Release\synSef.csproj.ResolveComReference.cache
+E:\chuachay\synSef\synSef\bin\Release\synSef.exe
+E:\chuachay\synSef\synSef\bin\Release\synSef.pdb
+E:\chuachay\synSef\synSef\obj\Release\synSef.csprojResolveAssemblyReference.cache
+E:\chuachay\synSef\synSef\obj\Release\synSef.Form1.resources
+E:\chuachay\synSef\synSef\obj\Release\synSef.Properties.Resources.resources
+E:\chuachay\synSef\synSef\obj\Release\synSef.csproj.GenerateResource.Cache
+E:\chuachay\synSef\synSef\obj\Release\synSef.exe
+E:\chuachay\synSef\synSef\obj\Release\synSef.pdb
